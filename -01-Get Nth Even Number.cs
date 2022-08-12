@@ -7,6 +7,7 @@
 * 100 --> 198
 * 1298734 --> 2597466
 */
+
 //Solution:
 public class Kata
 {
